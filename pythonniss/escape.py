@@ -1,0 +1,6 @@
+print("bbsr\tctc")
+print("bbsr\bctc")
+print("bbsr\rctc")
+print("bbsr\tctc\bpuri")
+print("bbsr\b\bctc")
+print("bbsr\bctc\tpuri")

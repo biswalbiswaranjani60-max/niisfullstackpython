@@ -1,0 +1,5 @@
+print("enter numbers")
+n=int(input())
+b=int(input())
+s=int(input())
+print("average of numbers")
