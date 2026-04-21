@@ -8,5 +8,4 @@ print("sum=",a)
 print("sub=",s)
 print("mult=",m)
 print("div=",d)
-
 print(f"sum=,{a},\nsub={s},\nmult={m},\ndiv={d}")

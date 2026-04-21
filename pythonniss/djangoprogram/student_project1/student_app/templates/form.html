@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Form</title>
+</head>
+<body>
+    <h2>Enter Student Details</h2>
+
+    <form method="POST">
+        {% csrf_token %}
+        Roll No: <input type="number" name="rollno"><br><br>
+        Name: <input type="text" name="name"><br><br>
+        Marks: <input type="number" name="marks"><br><br>
+
+        <button type="submit">Save</button>
+    </form>
+</body>
+</html>

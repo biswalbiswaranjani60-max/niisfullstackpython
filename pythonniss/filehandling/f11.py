@@ -1,0 +1,5 @@
+f=open("sita.txt","w+")
+f.write("ram is a good boy")
+f.seek(0)
+print(f.read())
+f.close()
