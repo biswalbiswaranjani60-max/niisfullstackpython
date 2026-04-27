@@ -5,7 +5,5 @@ class demo:
 		print("destructor")
 d=demo()
 print("hi")
-
-
 demo()
 print("hi")

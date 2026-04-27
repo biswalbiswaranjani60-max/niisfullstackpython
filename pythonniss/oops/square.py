@@ -11,6 +11,3 @@ s1=square(10)
 s1.show()
 print("area of square=",s1.area())
 s1.perimeter()
-
-
-
